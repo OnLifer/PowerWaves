@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d6bf8c85edf02634da8d149c593cb12e
+timeCreated: 1485061576
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Freaks of Nature
+  fontNames:
+  - Freaks of Nature
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
